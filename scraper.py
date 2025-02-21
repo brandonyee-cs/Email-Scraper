@@ -16,19 +16,14 @@ from googleapiclient.discovery import build
 import os
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
 load_dotenv()
 
-# Configure settings
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 EMAIL_REGEX = re.compile(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b')
-SLEEP_TIME = 0.1  # Seconds between requests
 
-# Load API keys from environment variables
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')
 
-# Validate API keys are present
 if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
     raise ValueError("Missing required environment variables. Please check your .env file contains GOOGLE_API_KEY and GOOGLE_CSE_ID")
 
@@ -50,7 +45,7 @@ class RateLimiter:
             time.sleep(wait_time)
         self.last_request[domain] = time.time()
 
-rate_limiter = RateLimiter(requests_per_second=0.5)  # 2 seconds between requests
+rate_limiter = RateLimiter(requests_per_second=0.5) 
 
 class ResultsCache:
     def __init__(self, cache_file='cache.json', expire_days=7):
@@ -117,7 +112,7 @@ def get_company_url(company_name):
         service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
         result = service.cse().list(
             q=f"{company_name} official website",
-            cx=GOOGLE_CSE_ID,  # Search engine ID
+            cx=GOOGLE_CSE_ID,  
             num=1
         ).execute()
         
@@ -165,7 +160,6 @@ def scrape_emails(url, session):
         
         emails = set()
         
-        # Find mailto links
         for link in soup.select('a[href^="mailto:"]'):
             try:
                 href = link['href'].lower()
@@ -175,7 +169,6 @@ def scrape_emails(url, session):
             except:
                 continue
         
-        # Search page text
         try:
             text = soup.get_text().lower()
             found_emails = EMAIL_REGEX.findall(text)
@@ -190,7 +183,6 @@ def scrape_emails(url, session):
 
 def validate_email(email):
     """More thorough email validation"""
-    # Reduced invalid patterns to allow more legitimate emails
     INVALID_PATTERNS = {
         'noreply@', 'no-reply@', 'donotreply@',
     }
@@ -218,16 +210,13 @@ def scrape_site(url):
     emails = set()
     session = create_session()
     
-    # Get domain for rate limiting
     domain = url.split('/')[2]
     rate_limiter.wait(domain)
     
-    # Scrape homepage
     homepage_emails = scrape_emails(url, session)
     if homepage_emails:
         emails.update(homepage_emails)
     
-    # Scrape contact pages
     for page_url in get_contact_pages(url):
         try:
             rate_limiter.wait(domain)
@@ -238,7 +227,6 @@ def scrape_site(url):
             logging.error(f"Error scraping contact page {page_url}: {str(e)}")
             continue
     
-    # Filter and validate emails
     valid_emails = [email for email in emails if validate_email(email)]
     return valid_emails
 
@@ -246,7 +234,6 @@ def load_companies(filename='companies.txt'):
     """Load company names from text file"""
     try:
         with open(filename, 'r') as f:
-            # Read lines and strip whitespace
             companies = [line.strip() for line in f if line.strip()]
         return companies
     except Exception as e:
@@ -257,7 +244,6 @@ def scrape_companies():
     """Main function to scrape company emails"""
     logging.info("Starting scraper run")
     
-    # Load companies from file
     companies = load_companies()
     if not companies:
         print("Error: No companies loaded from companies.txt")
@@ -272,7 +258,6 @@ def scrape_companies():
         try:
             print(f"Processing: {company}")
             
-            # Check cache first
             cached_emails = cache.get(company)
             if cached_emails:
                 print(f"  Found cached emails: {', '.join(cached_emails)}")
@@ -288,18 +273,15 @@ def scrape_companies():
             
             print(f"  Found website: {url}")
             
-            # Scrape site
             emails = scrape_site(url)
             
             if emails:
                 print(f"  Found emails: {', '.join(emails)}")
                 results.append({'Company': company, 'Emails': ', '.join(emails)})
-                cache.set(company, emails)  # Cache the results
+                cache.set(company, emails)  
             else:
                 print(f"  No emails found for {company}")
                 results.append({'Company': company, 'Emails': 'Not found'})
-            
-            sleep(SLEEP_TIME)  # Respectful delay between companies
             
         except Exception as e:
             error_msg = str(e)

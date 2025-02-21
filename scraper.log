@@ -735,3 +735,405 @@
 2025-02-20 20:52:44,183 - INFO - Processing company: Tezo
 2025-02-20 20:52:44,184 - INFO - file_cache is only supported with oauth2client<4.0.0
 2025-02-20 20:52:44,303 - ERROR - Search error for Tezo: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Tezo+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 22:34:44,897 - INFO - Starting scraper run
+2025-02-20 22:34:44,898 - INFO - Processing company: Awake Chocolate
+2025-02-20 22:34:44,900 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:34:47,669 - INFO - Processing company: Monster Energy
+2025-02-20 22:34:47,670 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:34:48,494 - INFO - Processing company: Wolfram Alpha
+2025-02-20 22:34:48,496 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:34:49,278 - INFO - Processing company: OReilly Media
+2025-02-20 22:34:49,280 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:34:51,531 - INFO - Processing company: Axure
+2025-02-20 22:34:51,532 - INFO - Processing company: Nord Security
+2025-02-20 22:34:51,532 - INFO - Processing company: Lutron
+2025-02-20 22:34:51,533 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:03,636 - INFO - Processing company: Troy Web Consulting
+2025-02-20 22:35:03,637 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:09,851 - INFO - Processing company: Global Foundries
+2025-02-20 22:35:09,853 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:14,191 - INFO - Processing company: ThinAir
+2025-02-20 22:35:14,193 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:20,574 - INFO - Processing company: Palantir
+2025-02-20 22:35:20,574 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:23,061 - INFO - Processing company: School of Sciences
+2025-02-20 22:35:23,063 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:27,612 - INFO - Processing company: RCOS
+2025-02-20 22:35:27,613 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:29,730 - INFO - Processing company: FBI
+2025-02-20 22:35:29,732 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:30,359 - INFO - Processing company: TempoLabs
+2025-02-20 22:35:30,361 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:30,881 - INFO - Processing company: TechAffinity
+2025-02-20 22:35:30,883 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:41,329 - INFO - Processing company: Defacto Global
+2025-02-20 22:35:41,330 - INFO - Processing company: BAM
+2025-02-20 22:35:41,331 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 22:35:41,332 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:42,086 - INFO - Processing company: Tech Valley Center of Gravity
+2025-02-20 22:35:42,088 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:44,501 - INFO - Processing company: Boeing
+2025-02-20 22:35:44,501 - INFO - Processing company: Deloitte
+2025-02-20 22:35:44,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:49,788 - INFO - Processing company: Rivian
+2025-02-20 22:35:49,789 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:52,702 - INFO - Processing company: Midwest Games
+2025-02-20 22:35:52,702 - INFO - Processing company: Bloomberg
+2025-02-20 22:35:52,702 - INFO - Processing company: Honeywell
+2025-02-20 22:35:52,703 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:35:55,166 - INFO - Processing company: GitKraken
+2025-02-20 22:35:55,168 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:00,440 - INFO - Processing company: StackOverflow
+2025-02-20 22:36:00,441 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:01,017 - INFO - Processing company: Mathworks
+2025-02-20 22:36:01,019 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:01,582 - INFO - Processing company: Hugging Face
+2025-02-20 22:36:01,583 - INFO - Processing company: Moong
+2025-02-20 22:36:01,585 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:02,211 - INFO - Processing company: theTradeDesk
+2025-02-20 22:36:02,212 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:02,964 - INFO - Processing company: Citadel
+2025-02-20 22:36:02,966 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:05,626 - INFO - Processing company: Genentech
+2025-02-20 22:36:05,628 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:09,779 - INFO - Processing company: Siemens
+2025-02-20 22:36:09,779 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:10,901 - INFO - Processing company: UKG
+2025-02-20 22:36:10,901 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:16,089 - INFO - Processing company: fiserv
+2025-02-20 22:36:16,093 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:19,037 - INFO - Processing company: Rockstar Games
+2025-02-20 22:36:19,038 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:21,593 - INFO - Processing company: Verizon
+2025-02-20 22:36:21,595 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:27,666 - INFO - Processing company: Navy Federal Credit Union
+2025-02-20 22:36:27,667 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:31,048 - INFO - Processing company: Adobe
+2025-02-20 22:36:31,051 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:41,772 - INFO - Processing company: Apollo.io
+2025-02-20 22:36:41,774 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:45,149 - INFO - Processing company: MasterCard
+2025-02-20 22:36:45,150 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:45,950 - INFO - Processing company: PwC
+2025-02-20 22:36:45,952 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:36:57,497 - INFO - Processing company: John Deere
+2025-02-20 22:36:57,498 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:00,347 - INFO - Processing company: Amazon
+2025-02-20 22:37:00,348 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:03,385 - INFO - Processing company: Intuit
+2025-02-20 22:37:03,387 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:04,188 - INFO - Processing company: Sentry
+2025-02-20 22:37:04,191 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:04,761 - INFO - Processing company: Datto
+2025-02-20 22:37:04,762 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:16,150 - INFO - Processing company: General Dynamics
+2025-02-20 22:37:16,151 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:16,798 - INFO - Processing company: Microsoft
+2025-02-20 22:37:16,800 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:19,973 - INFO - Processing company: Moderna
+2025-02-20 22:37:19,973 - INFO - Processing company: Ford
+2025-02-20 22:37:19,974 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:30,544 - INFO - Processing company: Zoom
+2025-02-20 22:37:30,545 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:33,410 - INFO - Processing company: LinkedIn
+2025-02-20 22:37:33,411 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:38,598 - INFO - Processing company: The D. E. Shaw Group
+2025-02-20 22:37:38,616 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:41,776 - INFO - Processing company: Dexcom
+2025-02-20 22:37:41,777 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:37:57,904 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/contact-us
+2025-02-20 22:38:15,083 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/contact-us
+2025-02-20 22:38:34,216 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/contact-us
+2025-02-20 22:38:49,428 - ERROR - Error scraping https://www.dexcom.com/en-us/contact-us: HTTPSConnectionPool(host='www.dexcom.com', port=443): Max retries exceeded with url: /en-us/contact-us (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)"))
+2025-02-20 22:39:04,550 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/about
+2025-02-20 22:39:24,065 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/about-us
+2025-02-20 22:39:41,205 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/about-us
+2025-02-20 22:40:00,450 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/about-us
+2025-02-20 22:40:15,588 - ERROR - Error scraping https://www.dexcom.com/en-us/about-us: HTTPSConnectionPool(host='www.dexcom.com', port=443): Max retries exceeded with url: /en-us/about-us (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)"))
+2025-02-20 22:40:31,257 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/help
+2025-02-20 22:40:48,360 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/help
+2025-02-20 22:41:07,613 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)")': /en-us/help
+2025-02-20 22:41:22,748 - ERROR - Error scraping https://www.dexcom.com/en-us/help: HTTPSConnectionPool(host='www.dexcom.com', port=443): Max retries exceeded with url: /en-us/help (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.dexcom.com', port=443): Read timed out. (read timeout=15)"))
+2025-02-20 22:41:22,849 - INFO - Processing company: Warp
+2025-02-20 22:41:22,849 - INFO - Processing company: Dataforma
+2025-02-20 22:41:22,852 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:31,040 - INFO - Processing company: NVIDIA
+2025-02-20 22:41:31,041 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:35,168 - INFO - Processing company: Dynatrace
+2025-02-20 22:41:35,169 - INFO - Processing company: IEEE
+2025-02-20 22:41:35,169 - INFO - Processing company: Esri
+2025-02-20 22:41:35,170 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:38,992 - INFO - Processing company: Starbucks
+2025-02-20 22:41:38,992 - INFO - Processing company: Samsara
+2025-02-20 22:41:38,992 - INFO - Processing company: CBRE
+2025-02-20 22:41:38,993 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:39,569 - INFO - Processing company: Nike
+2025-02-20 22:41:39,570 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:44,256 - INFO - Processing company: InterSystems
+2025-02-20 22:41:44,257 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:54,739 - INFO - Processing company: DeepMind
+2025-02-20 22:41:54,741 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:58,074 - INFO - Processing company: Spline
+2025-02-20 22:41:58,076 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:41:59,925 - INFO - Processing company: Audible
+2025-02-20 22:41:59,926 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:00,432 - INFO - Processing company: Zendesk
+2025-02-20 22:42:00,433 - INFO - Processing company: Qualcomm
+2025-02-20 22:42:00,433 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:03,372 - INFO - Processing company: Cigna
+2025-02-20 22:42:03,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:06,336 - INFO - Processing company: Plug Power
+2025-02-20 22:42:06,337 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:08,949 - INFO - Processing company: Cisco
+2025-02-20 22:42:08,949 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:11,330 - INFO - Processing company: Paycom
+2025-02-20 22:42:11,331 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:17,576 - INFO - Processing company: Marshall Wace
+2025-02-20 22:42:17,577 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:20,829 - INFO - Processing company: United Airlines
+2025-02-20 22:42:20,830 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:31,358 - INFO - Processing company: Roblox
+2025-02-20 22:42:31,359 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:33,526 - INFO - Processing company: Okta
+2025-02-20 22:42:33,528 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:38,680 - INFO - Processing company: Thomson Reuters
+2025-02-20 22:42:38,682 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:41,675 - INFO - Processing company: echo3D
+2025-02-20 22:42:41,678 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:43,547 - INFO - Processing company: Google Cloud
+2025-02-20 22:42:43,549 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:48,446 - INFO - Processing company: Target
+2025-02-20 22:42:48,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:42:51,201 - INFO - Processing company: McDonalds
+2025-02-20 22:42:51,202 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:03,315 - INFO - Processing company: Morgan Stanley
+2025-02-20 22:43:03,315 - INFO - Processing company: Schmidt Futures
+2025-02-20 22:43:03,316 - INFO - Processing company: American Express
+2025-02-20 22:43:03,317 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:04,855 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f344a69bd70>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)")': /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1
+2025-02-20 22:43:06,881 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f344a69bdd0>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)")': /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1
+2025-02-20 22:43:10,929 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f344a728170>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)")': /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1
+2025-02-20 22:43:10,990 - ERROR - Error scraping https://www.americanexpress.com/contact-us: HTTPSConnectionPool(host='www212.americanexpress.com', port=443): Max retries exceeded with url: /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f344a728350>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)"))
+2025-02-20 22:43:13,382 - INFO - Processing company: BGB Group
+2025-02-20 22:43:13,383 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:15,744 - INFO - Processing company: BiggerPockets
+2025-02-20 22:43:15,746 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:19,503 - INFO - Processing company: Verisk
+2025-02-20 22:43:19,504 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:24,785 - INFO - Processing company: Optiver
+2025-02-20 22:43:24,787 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:29,712 - INFO - Processing company: Spectrum
+2025-02-20 22:43:29,713 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:40,253 - INFO - Processing company: TikTok
+2025-02-20 22:43:40,255 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:44,310 - INFO - Processing company: Merck
+2025-02-20 22:43:44,311 - INFO - Processing company: Lockheed Martin
+2025-02-20 22:43:44,312 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:46,899 - INFO - Processing company: DTCC
+2025-02-20 22:43:46,900 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:47,439 - INFO - Processing company: Clear
+2025-02-20 22:43:47,440 - INFO - Processing company: RMI
+2025-02-20 22:43:47,440 - INFO - Processing company: Collins Aerospace
+2025-02-20 22:43:47,441 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:48,035 - INFO - Processing company: Kinsta
+2025-02-20 22:43:48,036 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:50,682 - INFO - Processing company: PepsiCo
+2025-02-20 22:43:50,683 - INFO - Processing company: JPMorgan Chase & Co.
+2025-02-20 22:43:50,683 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:51,390 - INFO - Processing company: Northrop Grumman
+2025-02-20 22:43:51,391 - INFO - Processing company: MongoDB
+2025-02-20 22:43:51,392 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:43:54,694 - INFO - Processing company: The Home Depot
+2025-02-20 22:43:54,695 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:05,384 - INFO - Processing company: Intel
+2025-02-20 22:44:05,389 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:05,979 - INFO - Processing company: Xilinx
+2025-02-20 22:44:05,981 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:11,218 - INFO - Processing company: ID Tech
+2025-02-20 22:44:11,219 - INFO - Processing company: Robinhood
+2025-02-20 22:44:11,219 - INFO - Processing company: AMD
+2025-02-20 22:44:11,219 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:21,750 - INFO - Processing company: Stripe
+2025-02-20 22:44:21,751 - INFO - Processing company: Raytheon
+2025-02-20 22:44:21,751 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:25,516 - INFO - Processing company: Jahnel Group
+2025-02-20 22:44:25,516 - INFO - Processing company: Cognex
+2025-02-20 22:44:25,518 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:26,036 - INFO - Processing company: T-Mobile
+2025-02-20 22:44:26,038 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:28,837 - INFO - Processing company: Medallia
+2025-02-20 22:44:28,838 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:32,354 - INFO - Processing company: GenSpark
+2025-02-20 22:44:32,355 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:32,974 - INFO - Processing company: Capital One
+2025-02-20 22:44:32,977 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:36,005 - INFO - Processing company: Codédex
+2025-02-20 22:44:36,006 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:37,990 - INFO - Processing company: Figma
+2025-02-20 22:44:37,991 - INFO - Processing company: Dolby
+2025-02-20 22:44:37,992 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:40,587 - INFO - Processing company: Atlassian
+2025-02-20 22:44:40,588 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:43,174 - INFO - Processing company: MLB
+2025-02-20 22:44:43,176 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:48,669 - INFO - Processing company: St Peters
+2025-02-20 22:44:48,670 - INFO - Processing company: Subway
+2025-02-20 22:44:48,670 - INFO - Processing company: Peraton
+2025-02-20 22:44:48,672 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:50,563 - INFO - Processing company: KPMG
+2025-02-20 22:44:50,564 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:52,714 - INFO - Processing company: Hearst Television
+2025-02-20 22:44:52,716 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:57,452 - INFO - Processing company: Duck Creek Technologies
+2025-02-20 22:44:57,453 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:44:58,328 - INFO - Processing company: Broadridge
+2025-02-20 22:44:58,329 - INFO - Processing company: Jane Street
+2025-02-20 22:44:58,329 - INFO - Processing company: FCA
+2025-02-20 22:44:58,329 - INFO - Processing company: Adexa
+2025-02-20 22:44:58,330 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:13,431 - INFO - Processing company: ZipRecruiter
+2025-02-20 22:45:13,432 - INFO - Processing company: Discover
+2025-02-20 22:45:13,433 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:15,785 - INFO - Processing company: Matic Network
+2025-02-20 22:45:15,787 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:17,980 - INFO - Processing company: echoAR
+2025-02-20 22:45:17,982 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:18,129 - ERROR - Search error for echoAR: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=echoAR+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:18,129 - INFO - Processing company: Elastic
+2025-02-20 22:45:18,129 - INFO - Processing company: Hasura
+2025-02-20 22:45:18,131 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:18,283 - ERROR - Search error for Hasura: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Hasura+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:18,283 - INFO - Processing company: Digital Ocean
+2025-02-20 22:45:18,284 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:18,437 - ERROR - Search error for Digital Ocean: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Digital+Ocean+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:18,437 - INFO - Processing company: AWS
+2025-02-20 22:45:18,437 - INFO - Processing company: Deerfield Associates
+2025-02-20 22:45:18,438 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:18,595 - ERROR - Search error for Deerfield Associates: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Deerfield+Associates+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:18,599 - INFO - Processing company: Bridge Partners
+2025-02-20 22:45:18,600 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:18,744 - ERROR - Search error for Bridge Partners: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bridge+Partners+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:18,745 - INFO - Processing company: NordVPN
+2025-02-20 22:45:18,745 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:19,364 - INFO - Processing company: Google
+2025-02-20 22:45:19,365 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 22:45:19,366 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:19,527 - ERROR - Search error for New York State Association of Realtors: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=New+York+State+Association+of+Realtors+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:19,527 - INFO - Processing company: Brookfield Asset Management
+2025-02-20 22:45:19,528 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:19,685 - ERROR - Search error for Brookfield Asset Management: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Brookfield+Asset+Management+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:19,685 - INFO - Processing company: Crown Castle International
+2025-02-20 22:45:19,686 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:24,179 - INFO - Processing company: Simon Property Group
+2025-02-20 22:45:24,181 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:24,346 - ERROR - Search error for Simon Property Group: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Simon+Property+Group+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:24,347 - INFO - Processing company: Equinix
+2025-02-20 22:45:24,348 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:24,499 - ERROR - Search error for Equinix: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Equinix+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:24,499 - INFO - Processing company: Equity Residential
+2025-02-20 22:45:24,500 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:24,652 - ERROR - Search error for Equity Residential: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Equity+Residential+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:24,653 - INFO - Processing company: Public Storage
+2025-02-20 22:45:24,654 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:24,798 - ERROR - Search error for Public Storage: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Public+Storage+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:24,798 - INFO - Processing company: Alexandria Real Estate Equities
+2025-02-20 22:45:24,799 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:27,056 - INFO - Processing company: AvalonBay Communities
+2025-02-20 22:45:27,056 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:27,206 - ERROR - Search error for AvalonBay Communities: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=AvalonBay+Communities+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:27,206 - INFO - Processing company: Boston Properties
+2025-02-20 22:45:27,208 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:27,359 - ERROR - Search error for Boston Properties: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Boston+Properties+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:27,360 - INFO - Processing company: SEGRO
+2025-02-20 22:45:27,360 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:27,924 - INFO - Processing company: VICI Properties
+2025-02-20 22:45:27,926 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,073 - ERROR - Search error for VICI Properties: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=VICI+Properties+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,073 - INFO - Processing company: Ventas
+2025-02-20 22:45:28,074 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,213 - ERROR - Search error for Ventas: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Ventas+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,213 - INFO - Processing company: Welltower
+2025-02-20 22:45:28,214 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,367 - ERROR - Search error for Welltower: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Welltower+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,368 - INFO - Processing company: Realty Income Corporation
+2025-02-20 22:45:28,368 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,526 - ERROR - Search error for Realty Income Corporation: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Realty+Income+Corporation+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,526 - INFO - Processing company: Annaly Capital Management
+2025-02-20 22:45:28,527 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,658 - ERROR - Search error for Annaly Capital Management: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Annaly+Capital+Management+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,658 - INFO - Processing company: Essex Property Trust
+2025-02-20 22:45:28,659 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,808 - ERROR - Search error for Essex Property Trust: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Essex+Property+Trust+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,808 - INFO - Processing company: Healthpeak Properties
+2025-02-20 22:45:28,810 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:28,977 - ERROR - Search error for Healthpeak Properties: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Healthpeak+Properties+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:28,978 - INFO - Processing company: Starwood Property Trust
+2025-02-20 22:45:28,978 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:29,123 - ERROR - Search error for Starwood Property Trust: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Starwood+Property+Trust+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:29,124 - INFO - Processing company: Kimco Realty Corporation
+2025-02-20 22:45:29,125 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:29,272 - ERROR - Search error for Kimco Realty Corporation: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Kimco+Realty+Corporation+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:29,272 - INFO - Processing company: DPR Construction
+2025-02-20 22:45:29,273 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:29,418 - ERROR - Search error for DPR Construction: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=DPR+Construction+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:29,418 - INFO - Processing company: Whiting-Turner Contracting
+2025-02-20 22:45:29,419 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:29,579 - ERROR - Search error for Whiting-Turner Contracting: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Whiting-Turner+Contracting+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:29,579 - INFO - Processing company: STO Building Group
+2025-02-20 22:45:29,579 - INFO - Processing company: Kiewit Corp
+2025-02-20 22:45:29,580 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:29,739 - ERROR - Search error for Kiewit Corp: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Kiewit+Corp+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:29,739 - INFO - Processing company: Fluor Corporation
+2025-02-20 22:45:29,741 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:29,883 - ERROR - Search error for Fluor Corporation: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Fluor+Corporation+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:29,883 - INFO - Processing company: Norfolk Southern Corporation
+2025-02-20 22:45:29,884 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,069 - ERROR - Search error for Norfolk Southern Corporation: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Norfolk+Southern+Corporation+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,070 - INFO - Processing company: Sempra
+2025-02-20 22:45:30,070 - INFO - Processing company: Dataart
+2025-02-20 22:45:30,071 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,230 - ERROR - Search error for Dataart: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Dataart+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,230 - INFO - Processing company: DirtSat
+2025-02-20 22:45:30,230 - INFO - Processing company: Goldman Sachs
+2025-02-20 22:45:30,231 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,361 - ERROR - Search error for Goldman Sachs: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Goldman+Sachs+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,361 - INFO - Processing company: Bank of America
+2025-02-20 22:45:30,362 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,507 - ERROR - Search error for Bank of America: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bank+of+America+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,508 - INFO - Processing company: Labcorp
+2025-02-20 22:45:30,508 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,640 - ERROR - Search error for Labcorp: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Labcorp+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,640 - INFO - Processing company: JetBrains
+2025-02-20 22:45:30,641 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,788 - ERROR - Search error for JetBrains: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=JetBrains+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,789 - INFO - Processing company: Balsamiq
+2025-02-20 22:45:30,789 - INFO - Processing company: DoraHacks
+2025-02-20 22:45:30,790 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:30,932 - ERROR - Search error for DoraHacks: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=DoraHacks+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:30,932 - INFO - Processing company: PRHI
+2025-02-20 22:45:30,933 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,085 - ERROR - Search error for PRHI: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=PRHI+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,085 - INFO - Processing company: IBM Call for Code
+2025-02-20 22:45:31,086 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,241 - ERROR - Search error for IBM Call for Code: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IBM+Call+for+Code+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,241 - INFO - Processing company: Snapchat
+2025-02-20 22:45:31,242 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,407 - ERROR - Search error for Snapchat: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Snapchat+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,407 - INFO - Processing company: WB Games
+2025-02-20 22:45:31,407 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,538 - ERROR - Search error for WB Games: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=WB+Games+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,539 - INFO - Processing company: Allstate
+2025-02-20 22:45:31,540 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,694 - ERROR - Search error for Allstate: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Allstate+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,694 - INFO - Processing company: Coca Cola
+2025-02-20 22:45:31,695 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,844 - ERROR - Search error for Coca Cola: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Coca+Cola+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,844 - INFO - Processing company: Marriot
+2025-02-20 22:45:31,845 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:31,996 - ERROR - Search error for Marriot: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Marriot+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:31,996 - INFO - Processing company: Hak5
+2025-02-20 22:45:31,997 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:32,141 - ERROR - Search error for Hak5: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Hak5+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+2025-02-20 22:45:32,141 - INFO - Processing company: Tezo
+2025-02-20 22:45:32,142 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 22:45:32,303 - ERROR - Search error for Tezo: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Tezo+official+website&cx=e120f56126d3d4508&num=1&key=AIzaSyDzrgp5_jEt93dpOScQ4ikTHHGPApOQCZM&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:217733622899'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
