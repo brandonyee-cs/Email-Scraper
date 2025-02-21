@@ -75,3 +75,169 @@
 2025-02-20 19:58:11,477 - INFO - Processing company: Adobe
 2025-02-20 19:58:33,939 - INFO - Processing company: Apollo.io
 2025-02-20 19:58:37,329 - INFO - Processing company: MasterCard
+2025-02-20 19:59:38,479 - INFO - Processing company: PwC
+2025-02-20 19:59:42,524 - INFO - Processing company: John Deere
+2025-02-20 19:59:55,653 - INFO - Processing company: Amazon
+2025-02-20 19:59:58,356 - INFO - Processing company: Intuit
+2025-02-20 20:00:06,454 - INFO - Processing company: Sentry
+2025-02-20 20:00:10,604 - INFO - Processing company: Datto
+2025-02-20 20:00:21,544 - INFO - Processing company: General Dynamics
+2025-02-20 20:00:53,103 - INFO - Processing company: Microsoft
+2025-02-20 20:00:56,427 - INFO - Processing company: Moderna
+2025-02-20 20:00:58,994 - INFO - Processing company: Ford
+2025-02-20 20:01:10,254 - INFO - Processing company: Zoom
+2025-02-20 20:01:13,058 - INFO - Processing company: LinkedIn
+2025-02-20 20:01:14,426 - INFO - Processing company: The D. E. Shaw Group
+2025-02-20 20:01:14,843 - INFO - Processing company: Dexcom
+2025-02-20 20:01:24,468 - INFO - Processing company: Warp
+2025-02-20 20:01:31,049 - INFO - Processing company: Dataforma
+2025-02-20 20:01:37,985 - INFO - Processing company: NVIDIA
+2025-02-20 20:01:59,637 - INFO - Processing company: Dynatrace
+2025-02-20 20:02:01,458 - INFO - Processing company: IEEE
+2025-02-20 20:02:03,481 - INFO - Processing company: Esri
+2025-02-20 20:02:06,734 - INFO - Processing company: Starbucks
+2025-02-20 20:02:09,710 - INFO - Processing company: Samsara
+2025-02-20 20:02:15,791 - INFO - Processing company: CBRE
+2025-02-20 20:02:27,652 - INFO - Processing company: Nike
+2025-02-20 20:02:32,000 - INFO - Processing company: InterSystems
+2025-02-20 20:03:05,836 - INFO - Processing company: DeepMind
+2025-02-20 20:03:08,333 - INFO - Processing company: Spline
+2025-02-20 20:03:16,175 - ERROR - Error scraping https://www.spline.org/contact: HTTPSConnectionPool(host='www.spline.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))
+2025-02-20 20:03:22,907 - ERROR - Error scraping https://www.spline.org/contact-us: HTTPSConnectionPool(host='www.spline.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))
+2025-02-20 20:03:29,706 - ERROR - Error scraping https://www.spline.org/about: HTTPSConnectionPool(host='www.spline.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))
+2025-02-20 20:03:36,450 - ERROR - Error scraping https://www.spline.org/about-us: HTTPSConnectionPool(host='www.spline.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))
+2025-02-20 20:03:43,265 - ERROR - Error scraping https://www.spline.org/support: HTTPSConnectionPool(host='www.spline.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))
+2025-02-20 20:03:50,008 - ERROR - Error scraping https://www.spline.org/help: HTTPSConnectionPool(host='www.spline.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 429 error responses'))
+2025-02-20 20:03:50,110 - INFO - Processing company: Audible
+2025-02-20 20:03:51,715 - INFO - Processing company: Zendesk
+2025-02-20 20:03:53,919 - INFO - Processing company: Qualcomm
+2025-02-20 20:03:56,542 - INFO - Processing company: Cigna
+2025-02-20 20:03:59,602 - INFO - Processing company: Plug Power
+2025-02-20 20:04:11,708 - INFO - Processing company: Cisco
+2025-02-20 20:04:13,879 - INFO - Processing company: Paycom
+2025-02-20 20:04:20,115 - INFO - Processing company: Marshall Wace
+2025-02-20 20:04:21,309 - INFO - Processing company: United Airlines
+2025-02-20 20:04:54,434 - INFO - Processing company: Roblox
+2025-02-20 20:04:56,240 - INFO - Processing company: Okta
+2025-02-20 20:05:01,146 - INFO - Processing company: Thomson Reuters
+2025-02-20 20:05:22,713 - INFO - Processing company: echo3D
+2025-02-20 20:05:24,346 - INFO - Processing company: Google Cloud
+2025-02-20 20:05:26,928 - INFO - Processing company: Target
+2025-02-20 20:05:29,581 - INFO - Processing company: McDonalds
+2025-02-20 20:06:05,636 - INFO - Processing company: Morgan Stanley
+2025-02-20 20:06:08,200 - INFO - Processing company: Schmidt Futures
+2025-02-20 20:06:11,461 - INFO - Processing company: American Express
+2025-02-20 20:06:12,796 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f84ac199640>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)")': /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1
+2025-02-20 20:06:14,832 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f84ac198ce0>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)")': /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1
+2025-02-20 20:06:18,893 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f84ac198ef0>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)")': /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1
+2025-02-20 20:06:18,950 - ERROR - Error scraping https://www.americanexpress.com/contact-us: HTTPSConnectionPool(host='www212.americanexpress.com', port=443): Max retries exceeded with url: /dsmlive/dsm/int/contactus/personalcards.do?vgnextoid=c3d6c697b3bdc110VgnVCM100000defaad94RCRD&page=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f84ac198e60>: Failed to resolve 'www212.americanexpress.com' ([Errno -5] No address associated with hostname)"))
+2025-02-20 20:06:21,465 - INFO - Processing company: BGB Group
+2025-02-20 20:06:23,365 - INFO - Processing company: BiggerPockets
+2025-02-20 20:06:27,112 - INFO - Processing company: Verisk
+2025-02-20 20:06:33,074 - INFO - Processing company: Optiver
+2025-02-20 20:06:39,480 - INFO - Processing company: Spectrum
+2025-02-20 20:06:52,737 - INFO - Processing company: TikTok
+2025-02-20 20:07:34,976 - INFO - Processing company: Merck
+2025-02-20 20:07:38,501 - INFO - Processing company: Lockheed Martin
+2025-02-20 20:07:40,371 - INFO - Processing company: DTCC
+2025-02-20 20:08:31,053 - INFO - Processing company: Clear
+2025-02-20 20:08:54,187 - INFO - Processing company: RMI
+2025-02-20 20:09:16,795 - INFO - Processing company: Collins Aerospace
+2025-02-20 20:09:17,688 - INFO - Processing company: Kinsta
+2025-02-20 20:09:20,403 - INFO - Processing company: PepsiCo
+2025-02-20 20:09:25,337 - INFO - Processing company: JPMorgan Chase & Co.
+2025-02-20 20:09:25,929 - INFO - Processing company: Northrop Grumman
+2025-02-20 20:09:32,085 - INFO - Processing company: MongoDB
+2025-02-20 20:09:34,085 - INFO - Processing company: The Home Depot
+2025-02-20 20:09:51,929 - INFO - Processing company: Intel
+2025-02-20 20:10:05,090 - INFO - Processing company: Xilinx
+2025-02-20 20:10:29,097 - INFO - Processing company: ID Tech
+2025-02-20 20:10:45,105 - INFO - Processing company: Robinhood
+2025-02-20 20:10:49,736 - INFO - Processing company: AMD
+2025-02-20 20:11:32,045 - ERROR - Error scraping https://www.amd.co/contact: HTTPSConnectionPool(host='www.amd.co', port=443): Max retries exceeded with url: /contact (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:11:38,924 - ERROR - Error scraping https://www.amd.co/contact-us: HTTPSConnectionPool(host='www.amd.co', port=443): Max retries exceeded with url: /contact-us (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:11:45,850 - ERROR - Error scraping https://www.amd.co/about: HTTPSConnectionPool(host='www.amd.co', port=443): Max retries exceeded with url: /about (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:11:52,691 - ERROR - Error scraping https://www.amd.co/about-us: HTTPSConnectionPool(host='www.amd.co', port=443): Max retries exceeded with url: /about-us (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:11:59,590 - ERROR - Error scraping https://www.amd.co/support: HTTPSConnectionPool(host='www.amd.co', port=443): Max retries exceeded with url: /support (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:12:06,481 - ERROR - Error scraping https://www.amd.co/help: HTTPSConnectionPool(host='www.amd.co', port=443): Max retries exceeded with url: /help (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:12:06,583 - INFO - Processing company: Stripe
+2025-02-20 20:12:10,547 - INFO - Processing company: Raytheon
+2025-02-20 20:13:32,553 - INFO - Processing company: Jahnel Group
+2025-02-20 20:13:34,197 - INFO - Processing company: Cognex
+2025-02-20 20:13:35,873 - INFO - Processing company: T-Mobile
+2025-02-20 20:13:38,792 - INFO - Processing company: Medallia
+2025-02-20 20:13:42,742 - INFO - Processing company: GenSpark
+2025-02-20 20:13:53,023 - INFO - Processing company: Capital One
+2025-02-20 20:13:55,732 - INFO - Processing company: Codédex
+2025-02-20 20:13:56,284 - INFO - Processing company: Figma
+2025-02-20 20:13:59,521 - INFO - Processing company: Dolby
+2025-02-20 20:14:02,519 - INFO - Processing company: Atlassian
+2025-02-20 20:14:06,437 - INFO - Processing company: MLB
+2025-02-20 20:14:11,092 - INFO - Processing company: St Peters
+2025-02-20 20:14:13,070 - INFO - Processing company: Subway
+2025-02-20 20:14:27,734 - INFO - Processing company: Peraton
+2025-02-20 20:14:30,199 - INFO - Processing company: KPMG
+2025-02-20 20:14:31,847 - INFO - Processing company: Hearst Television
+2025-02-20 20:15:12,666 - INFO - Processing company: Duck Creek Technologies
+2025-02-20 20:15:36,083 - INFO - Processing company: Broadridge
+2025-02-20 20:15:39,726 - INFO - Processing company: Jane Street
+2025-02-20 20:15:41,201 - INFO - Processing company: FCA
+2025-02-20 20:15:43,468 - INFO - Processing company: Adexa
+2025-02-20 20:15:57,795 - INFO - Processing company: ZipRecruiter
+2025-02-20 20:15:59,416 - INFO - Processing company: Discover
+2025-02-20 20:16:01,287 - INFO - Processing company: Matic Network
+2025-02-20 20:16:01,875 - INFO - Processing company: echoAR
+2025-02-20 20:16:04,257 - INFO - Processing company: Elastic
+2025-02-20 20:16:08,043 - INFO - Processing company: Hasura
+2025-02-20 20:16:39,626 - INFO - Processing company: Digital Ocean
+2025-02-20 20:16:41,876 - INFO - Processing company: AWS
+2025-02-20 20:16:46,999 - INFO - Processing company: Deerfield Associates
+2025-02-20 20:16:49,424 - INFO - Processing company: Bridge Partners
+2025-02-20 20:16:51,189 - INFO - Processing company: NordVPN
+2025-02-20 20:16:53,321 - INFO - Processing company: Google
+2025-02-20 20:16:55,417 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 20:16:55,802 - INFO - Processing company: Brookfield Asset Management
+2025-02-20 20:18:17,237 - INFO - Processing company: Crown Castle International
+2025-02-20 20:18:19,779 - INFO - Processing company: Simon Property Group
+2025-02-20 20:18:21,530 - INFO - Processing company: Equinix
+2025-02-20 20:18:25,763 - INFO - Processing company: Equity Residential
+2025-02-20 20:18:26,618 - INFO - Processing company: Public Storage
+2025-02-20 20:18:35,564 - ERROR - Error scraping https://www.publicstorage.com/about-us: HTTPSConnectionPool(host='www.publicstorage.com', port=443): Max retries exceeded with url: /about-us (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:18:42,570 - ERROR - Error scraping https://www.publicstorage.com/help: HTTPSConnectionPool(host='www.publicstorage.com', port=443): Max retries exceeded with url: /help (Caused by ResponseError('too many 500 error responses'))
+2025-02-20 20:18:42,670 - INFO - Processing company: Alexandria Real Estate Equities
+2025-02-20 20:18:43,689 - INFO - Processing company: AvalonBay Communities
+2025-02-20 20:19:24,249 - INFO - Processing company: Boston Properties
+2025-02-20 20:19:26,694 - INFO - Processing company: SEGRO
+2025-02-20 20:20:09,598 - INFO - Processing company: VICI Properties
+2025-02-20 20:20:12,249 - INFO - Processing company: Ventas
+2025-02-20 20:20:13,889 - INFO - Processing company: Welltower
+2025-02-20 20:20:16,238 - INFO - Processing company: Realty Income Corporation
+2025-02-20 20:20:16,670 - INFO - Processing company: Annaly Capital Management
+2025-02-20 20:20:17,455 - INFO - Processing company: Essex Property Trust
+2025-02-20 20:20:19,305 - INFO - Processing company: Healthpeak Properties
+2025-02-20 20:20:31,492 - INFO - Processing company: Starwood Property Trust
+2025-02-20 20:20:35,520 - INFO - Processing company: Kimco Realty Corporation
+2025-02-20 20:20:57,662 - INFO - Processing company: DPR Construction
+2025-02-20 20:21:39,230 - INFO - Processing company: Whiting-Turner Contracting
+2025-02-20 20:21:39,618 - INFO - Processing company: STO Building Group
+2025-02-20 20:21:48,711 - INFO - Processing company: Kiewit Corp
+2025-02-20 20:21:49,184 - INFO - Processing company: Fluor Corporation
+2025-02-20 20:22:59,830 - INFO - Processing company: Norfolk Southern Corporation
+2025-02-20 20:23:00,394 - INFO - Processing company: Sempra
+2025-02-20 20:23:02,241 - INFO - Processing company: Dataart
+2025-02-20 20:23:06,508 - INFO - Processing company: DirtSat
+2025-02-20 20:23:08,335 - INFO - Processing company: Goldman Sachs
+2025-02-20 20:23:10,821 - INFO - Processing company: Bank of America
+2025-02-20 20:23:15,948 - INFO - Processing company: Labcorp
+2025-02-20 20:23:18,317 - INFO - Processing company: JetBrains
+2025-02-20 20:23:20,423 - INFO - Processing company: Balsamiq
+2025-02-20 20:23:22,230 - INFO - Processing company: DoraHacks
+2025-02-20 20:24:03,936 - INFO - Processing company: PRHI
+2025-02-20 20:24:05,559 - INFO - Processing company: IBM Call for Code
+2025-02-20 20:24:06,164 - INFO - Processing company: Snapchat
+2025-02-20 20:24:08,010 - INFO - Processing company: WB Games
+2025-02-20 20:24:10,477 - INFO - Processing company: Allstate
+2025-02-20 20:24:22,518 - INFO - Processing company: Coca Cola
+2025-02-20 20:25:04,475 - INFO - Processing company: Marriot
+2025-02-20 20:25:08,527 - INFO - Processing company: Hak5
+2025-02-20 20:25:10,191 - INFO - Processing company: Tezo
