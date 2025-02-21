@@ -6,7 +6,6 @@ from time import sleep
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 import random
-import logging
 from collections import defaultdict
 import time
 import json
@@ -27,12 +26,6 @@ GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')
 if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
     raise ValueError("Missing required environment variables. Please check your .env file contains GOOGLE_API_KEY and GOOGLE_CSE_ID")
 
-logging.basicConfig(
-    filename='scraper.log',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
-
 class RateLimiter:
     def __init__(self, requests_per_second=1):
         self.delay = 0.1 / requests_per_second
@@ -45,7 +38,7 @@ class RateLimiter:
             time.sleep(wait_time)
         self.last_request[domain] = time.time()
 
-rate_limiter = RateLimiter(requests_per_second=0.5) 
+rate_limiter = RateLimiter(requests_per_second=0.5)
 
 class ResultsCache:
     def __init__(self, cache_file='cache.json', expire_days=7):
@@ -123,7 +116,7 @@ def get_company_url(company_name):
             return url
         return None
     except Exception as e:
-        logging.error(f"Search error for {company_name}: {str(e)}")
+        print(f"Search error for {company_name}: {str(e)}")
         return None
 
 def find_website_url(company_name):
@@ -178,7 +171,7 @@ def scrape_emails(url, session):
         
         return list(emails)
     except Exception as e:
-        logging.error(f"Error scraping {url}: {str(e)}")
+        print(f"Error scraping {url}: {str(e)}")
         return []
 
 def validate_email(email):
@@ -224,7 +217,7 @@ def scrape_site(url):
             if page_emails:
                 emails.update(page_emails)
         except Exception as e:
-            logging.error(f"Error scraping contact page {page_url}: {str(e)}")
+            print(f"Error scraping contact page {page_url}: {str(e)}")
             continue
     
     valid_emails = [email for email in emails if validate_email(email)]
@@ -237,12 +230,12 @@ def load_companies(filename='companies.txt'):
             companies = [line.strip() for line in f if line.strip()]
         return companies
     except Exception as e:
-        logging.error(f"Error loading companies from {filename}: {str(e)}")
+        print(f"Error loading companies from {filename}: {str(e)}")
         return []
 
 def scrape_companies():
     """Main function to scrape company emails"""
-    logging.info("Starting scraper run")
+    print("Starting scraper run")
     
     companies = load_companies()
     if not companies:
@@ -254,10 +247,8 @@ def scrape_companies():
     cache = ResultsCache()
     
     for company in companies:
-        logging.info(f"Processing company: {company}")
+        print(f"\nProcessing: {company}")
         try:
-            print(f"Processing: {company}")
-            
             cached_emails = cache.get(company)
             if cached_emails:
                 print(f"  Found cached emails: {', '.join(cached_emails)}")
@@ -278,14 +269,14 @@ def scrape_companies():
             if emails:
                 print(f"  Found emails: {', '.join(emails)}")
                 results.append({'Company': company, 'Emails': ', '.join(emails)})
-                cache.set(company, emails)  
+                cache.set(company, emails)
             else:
                 print(f"  No emails found for {company}")
                 results.append({'Company': company, 'Emails': 'Not found'})
             
         except Exception as e:
             error_msg = str(e)
-            logging.error(f"Error processing {company}: {error_msg}")
+            print(f"Error processing {company}: {error_msg}")
             results.append({'Company': company, 'Emails': f'Error: {error_msg}'})
             continue
     
