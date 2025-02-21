@@ -1,0 +1,77 @@
+2025-02-20 19:30:44,259 - INFO - Starting scraper run
+2025-02-20 19:30:44,259 - INFO - Processing company: Ellipsis
+2025-02-20 19:30:44,260 - ERROR - Error processing Ellipsis: 'ellipsis' object has no attribute 'lower'
+2025-02-20 19:31:08,538 - INFO - Starting scraper run
+2025-02-20 19:31:08,538 - INFO - Processing company: Ellipsis
+2025-02-20 19:31:08,538 - ERROR - Error processing Ellipsis: 'ellipsis' object has no attribute 'lower'
+2025-02-20 19:32:09,509 - INFO - Starting scraper run
+2025-02-20 19:32:09,510 - INFO - Processing company: Ellipsis
+2025-02-20 19:32:09,510 - ERROR - Error processing Ellipsis: 'ellipsis' object has no attribute 'lower'
+2025-02-20 19:33:26,405 - INFO - Starting scraper run
+2025-02-20 19:33:26,405 - INFO - Processing company: Awake Chocolate
+2025-02-20 19:33:39,651 - INFO - Processing company: Monster Energy
+2025-02-20 19:34:19,720 - INFO - Starting scraper run
+2025-02-20 19:34:19,721 - INFO - Processing company: Awake Chocolate
+2025-02-20 19:34:21,623 - INFO - Processing company: Monster Energy
+2025-02-20 19:36:22,618 - INFO - Processing company: Wolfram Alpha
+2025-02-20 19:36:27,875 - INFO - Processing company: OReilly Media
+2025-02-20 19:36:30,450 - INFO - Processing company: Axure
+2025-02-20 19:36:33,563 - INFO - Processing company: Nord Security
+2025-02-20 19:36:35,687 - INFO - Processing company: Lutron
+2025-02-20 19:36:53,876 - INFO - Processing company: Troy Web Consulting
+2025-02-20 19:36:55,506 - INFO - Processing company: Global Foundries
+2025-02-20 19:37:00,133 - INFO - Processing company: ThinAir
+2025-02-20 19:37:17,001 - INFO - Processing company: Palantir
+2025-02-20 19:37:18,892 - INFO - Processing company: School of Sciences
+2025-02-20 19:38:39,494 - INFO - Processing company: RCOS
+2025-02-20 19:38:40,671 - INFO - Processing company: FBI
+2025-02-20 19:38:42,132 - INFO - Processing company: TempoLabs
+2025-02-20 19:38:44,503 - INFO - Processing company: TechAffinity
+2025-02-20 19:38:46,224 - INFO - Processing company: Defacto Global
+2025-02-20 19:38:59,428 - INFO - Processing company: BAM
+2025-02-20 19:39:01,540 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 19:39:01,952 - INFO - Processing company: Tech Valley Center of Gravity
+2025-02-20 19:48:04,993 - INFO - Starting scraper run
+2025-02-20 19:48:04,994 - INFO - Processing company: Awake Chocolate
+2025-02-20 19:48:07,229 - INFO - Processing company: Monster Energy
+2025-02-20 19:50:08,136 - INFO - Processing company: Wolfram Alpha
+2025-02-20 19:50:31,848 - INFO - Processing company: OReilly Media
+2025-02-20 19:50:34,657 - INFO - Processing company: Axure
+2025-02-20 19:50:34,658 - INFO - Processing company: Nord Security
+2025-02-20 19:50:34,659 - INFO - Processing company: Lutron
+2025-02-20 19:50:53,160 - INFO - Processing company: Troy Web Consulting
+2025-02-20 19:51:14,779 - INFO - Processing company: Global Foundries
+2025-02-20 19:51:18,605 - INFO - Processing company: ThinAir
+2025-02-20 19:51:35,908 - INFO - Processing company: Palantir
+2025-02-20 19:51:37,644 - INFO - Processing company: School of Sciences
+2025-02-20 19:52:58,292 - INFO - Processing company: RCOS
+2025-02-20 19:53:03,817 - INFO - Processing company: FBI
+2025-02-20 19:53:06,365 - INFO - Processing company: TempoLabs
+2025-02-20 19:53:08,894 - INFO - Processing company: TechAffinity
+2025-02-20 19:53:10,544 - INFO - Processing company: Defacto Global
+2025-02-20 19:53:10,545 - INFO - Processing company: BAM
+2025-02-20 19:53:10,545 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 19:53:11,083 - INFO - Processing company: Tech Valley Center of Gravity
+2025-02-20 19:53:12,254 - INFO - Processing company: Boeing
+2025-02-20 19:53:14,593 - INFO - Processing company: Deloitte
+2025-02-20 19:53:36,399 - INFO - Processing company: Rivian
+2025-02-20 19:53:38,042 - INFO - Processing company: Midwest Games
+2025-02-20 19:53:39,901 - INFO - Processing company: Bloomberg
+2025-02-20 19:53:43,509 - INFO - Processing company: Honeywell
+2025-02-20 19:54:31,452 - INFO - Processing company: GitKraken
+2025-02-20 19:54:36,972 - INFO - Processing company: StackOverflow
+2025-02-20 19:54:39,736 - INFO - Processing company: Mathworks
+2025-02-20 19:54:41,526 - INFO - Processing company: Hugging Face
+2025-02-20 19:54:44,388 - INFO - Processing company: Moong
+2025-02-20 19:56:06,662 - INFO - Processing company: theTradeDesk
+2025-02-20 19:56:48,092 - INFO - Processing company: Citadel
+2025-02-20 19:57:00,620 - INFO - Processing company: Genentech
+2025-02-20 19:57:34,047 - INFO - Processing company: Siemens
+2025-02-20 19:57:35,331 - INFO - Processing company: UKG
+2025-02-20 19:57:39,664 - INFO - Processing company: fiserv
+2025-02-20 19:57:41,344 - INFO - Processing company: Rockstar Games
+2025-02-20 19:57:43,568 - INFO - Processing company: Verizon
+2025-02-20 19:57:49,240 - INFO - Processing company: Navy Federal Credit Union
+2025-02-20 19:58:11,477 - INFO - Processing company: Adobe
+2025-02-20 19:58:33,939 - INFO - Processing company: Apollo.io
+2025-02-20 19:58:37,329 - INFO - Processing company: MasterCard
