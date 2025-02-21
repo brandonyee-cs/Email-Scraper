@@ -241,3 +241,497 @@
 2025-02-20 20:25:04,475 - INFO - Processing company: Marriot
 2025-02-20 20:25:08,527 - INFO - Processing company: Hak5
 2025-02-20 20:25:10,191 - INFO - Processing company: Tezo
+2025-02-20 20:52:21,564 - INFO - Starting scraper run
+2025-02-20 20:52:21,565 - INFO - Processing company: Awake Chocolate
+2025-02-20 20:52:21,566 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:21,737 - ERROR - Search error for Awake Chocolate: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Awake+Chocolate+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:21,737 - INFO - Processing company: Monster Energy
+2025-02-20 20:52:21,738 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:21,879 - ERROR - Search error for Monster Energy: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Monster+Energy+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:21,880 - INFO - Processing company: Wolfram Alpha
+2025-02-20 20:52:21,880 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,016 - ERROR - Search error for Wolfram Alpha: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Wolfram+Alpha+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,017 - INFO - Processing company: OReilly Media
+2025-02-20 20:52:22,017 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,146 - ERROR - Search error for OReilly Media: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=OReilly+Media+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,146 - INFO - Processing company: Axure
+2025-02-20 20:52:22,147 - INFO - Processing company: Nord Security
+2025-02-20 20:52:22,147 - INFO - Processing company: Lutron
+2025-02-20 20:52:22,148 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,331 - ERROR - Search error for Lutron: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Lutron+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,332 - INFO - Processing company: Troy Web Consulting
+2025-02-20 20:52:22,333 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,496 - ERROR - Search error for Troy Web Consulting: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Troy+Web+Consulting+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,496 - INFO - Processing company: Global Foundries
+2025-02-20 20:52:22,497 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,635 - ERROR - Search error for Global Foundries: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Global+Foundries+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,635 - INFO - Processing company: ThinAir
+2025-02-20 20:52:22,636 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,797 - ERROR - Search error for ThinAir: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=ThinAir+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,798 - INFO - Processing company: Palantir
+2025-02-20 20:52:22,799 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:22,952 - ERROR - Search error for Palantir: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Palantir+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:22,952 - INFO - Processing company: School of Sciences
+2025-02-20 20:52:22,953 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,102 - ERROR - Search error for School of Sciences: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=School+of+Sciences+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,103 - INFO - Processing company: RCOS
+2025-02-20 20:52:23,103 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,236 - ERROR - Search error for RCOS: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=RCOS+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,236 - INFO - Processing company: FBI
+2025-02-20 20:52:23,238 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,384 - ERROR - Search error for FBI: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=FBI+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,384 - INFO - Processing company: TempoLabs
+2025-02-20 20:52:23,385 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,513 - ERROR - Search error for TempoLabs: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=TempoLabs+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,513 - INFO - Processing company: TechAffinity
+2025-02-20 20:52:23,514 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,667 - ERROR - Search error for TechAffinity: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=TechAffinity+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,667 - INFO - Processing company: Defacto Global
+2025-02-20 20:52:23,667 - INFO - Processing company: BAM
+2025-02-20 20:52:23,667 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 20:52:23,668 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,820 - ERROR - Search error for New York State Association of Realtors: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=New+York+State+Association+of+Realtors+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,821 - INFO - Processing company: Tech Valley Center of Gravity
+2025-02-20 20:52:23,822 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:23,960 - ERROR - Search error for Tech Valley Center of Gravity: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Tech+Valley+Center+of+Gravity+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:23,960 - INFO - Processing company: Boeing
+2025-02-20 20:52:23,960 - INFO - Processing company: Deloitte
+2025-02-20 20:52:23,961 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:24,114 - ERROR - Search error for Deloitte: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Deloitte+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:24,114 - INFO - Processing company: Rivian
+2025-02-20 20:52:24,115 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:24,261 - ERROR - Search error for Rivian: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Rivian+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:24,261 - INFO - Processing company: Midwest Games
+2025-02-20 20:52:24,261 - INFO - Processing company: Bloomberg
+2025-02-20 20:52:24,261 - INFO - Processing company: Honeywell
+2025-02-20 20:52:24,262 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:24,449 - ERROR - Search error for Honeywell: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Honeywell+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:24,449 - INFO - Processing company: GitKraken
+2025-02-20 20:52:24,451 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:24,606 - ERROR - Search error for GitKraken: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=GitKraken+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:24,606 - INFO - Processing company: StackOverflow
+2025-02-20 20:52:24,607 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:24,764 - ERROR - Search error for StackOverflow: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=StackOverflow+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:24,764 - INFO - Processing company: Mathworks
+2025-02-20 20:52:24,765 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:24,902 - ERROR - Search error for Mathworks: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Mathworks+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:24,902 - INFO - Processing company: Hugging Face
+2025-02-20 20:52:24,902 - INFO - Processing company: Moong
+2025-02-20 20:52:24,903 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:25,033 - ERROR - Search error for Moong: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Moong+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:25,033 - INFO - Processing company: theTradeDesk
+2025-02-20 20:52:25,034 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:25,234 - ERROR - Search error for theTradeDesk: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=theTradeDesk+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:25,234 - INFO - Processing company: Citadel
+2025-02-20 20:52:25,235 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:25,451 - ERROR - Search error for Citadel: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Citadel+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:25,451 - INFO - Processing company: Genentech
+2025-02-20 20:52:25,452 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:25,576 - ERROR - Search error for Genentech: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Genentech+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:25,577 - INFO - Processing company: Siemens
+2025-02-20 20:52:25,578 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:25,745 - ERROR - Search error for Siemens: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Siemens+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:25,746 - INFO - Processing company: UKG
+2025-02-20 20:52:25,747 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:25,915 - ERROR - Search error for UKG: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=UKG+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:25,915 - INFO - Processing company: fiserv
+2025-02-20 20:52:25,916 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,070 - ERROR - Search error for fiserv: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=fiserv+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,071 - INFO - Processing company: Rockstar Games
+2025-02-20 20:52:26,072 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,230 - ERROR - Search error for Rockstar Games: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Rockstar+Games+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,230 - INFO - Processing company: Verizon
+2025-02-20 20:52:26,231 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,364 - ERROR - Search error for Verizon: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Verizon+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,364 - INFO - Processing company: Navy Federal Credit Union
+2025-02-20 20:52:26,365 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,531 - ERROR - Search error for Navy Federal Credit Union: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Navy+Federal+Credit+Union+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,531 - INFO - Processing company: Adobe
+2025-02-20 20:52:26,532 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,678 - ERROR - Search error for Adobe: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Adobe+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,679 - INFO - Processing company: Apollo.io
+2025-02-20 20:52:26,680 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,834 - ERROR - Search error for Apollo.io: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Apollo.io+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,834 - INFO - Processing company: MasterCard
+2025-02-20 20:52:26,835 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:26,960 - ERROR - Search error for MasterCard: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=MasterCard+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:26,960 - INFO - Processing company: PwC
+2025-02-20 20:52:26,961 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,102 - ERROR - Search error for PwC: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=PwC+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,103 - INFO - Processing company: John Deere
+2025-02-20 20:52:27,103 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,233 - ERROR - Search error for John Deere: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=John+Deere+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,234 - INFO - Processing company: Amazon
+2025-02-20 20:52:27,234 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,356 - ERROR - Search error for Amazon: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Amazon+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,356 - INFO - Processing company: Intuit
+2025-02-20 20:52:27,357 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,487 - ERROR - Search error for Intuit: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Intuit+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,487 - INFO - Processing company: Sentry
+2025-02-20 20:52:27,489 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,615 - ERROR - Search error for Sentry: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Sentry+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,615 - INFO - Processing company: Datto
+2025-02-20 20:52:27,616 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,757 - ERROR - Search error for Datto: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Datto+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,757 - INFO - Processing company: General Dynamics
+2025-02-20 20:52:27,758 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:27,892 - ERROR - Search error for General Dynamics: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=General+Dynamics+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:27,892 - INFO - Processing company: Microsoft
+2025-02-20 20:52:27,893 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,043 - ERROR - Search error for Microsoft: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Microsoft+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,043 - INFO - Processing company: Moderna
+2025-02-20 20:52:28,043 - INFO - Processing company: Ford
+2025-02-20 20:52:28,044 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,193 - ERROR - Search error for Ford: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Ford+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,194 - INFO - Processing company: Zoom
+2025-02-20 20:52:28,195 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,345 - ERROR - Search error for Zoom: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Zoom+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,345 - INFO - Processing company: LinkedIn
+2025-02-20 20:52:28,346 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,481 - ERROR - Search error for LinkedIn: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=LinkedIn+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,481 - INFO - Processing company: The D. E. Shaw Group
+2025-02-20 20:52:28,482 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,626 - ERROR - Search error for The D. E. Shaw Group: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=The+D.+E.+Shaw+Group+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,626 - INFO - Processing company: Dexcom
+2025-02-20 20:52:28,627 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,780 - ERROR - Search error for Dexcom: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Dexcom+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,780 - INFO - Processing company: Warp
+2025-02-20 20:52:28,780 - INFO - Processing company: Dataforma
+2025-02-20 20:52:28,781 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:28,921 - ERROR - Search error for Dataforma: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Dataforma+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:28,921 - INFO - Processing company: NVIDIA
+2025-02-20 20:52:28,922 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,073 - ERROR - Search error for NVIDIA: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NVIDIA+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,074 - INFO - Processing company: Dynatrace
+2025-02-20 20:52:29,074 - INFO - Processing company: IEEE
+2025-02-20 20:52:29,074 - INFO - Processing company: Esri
+2025-02-20 20:52:29,075 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,241 - ERROR - Search error for Esri: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Esri+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,242 - INFO - Processing company: Starbucks
+2025-02-20 20:52:29,242 - INFO - Processing company: Samsara
+2025-02-20 20:52:29,242 - INFO - Processing company: CBRE
+2025-02-20 20:52:29,243 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,374 - ERROR - Search error for CBRE: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=CBRE+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,374 - INFO - Processing company: Nike
+2025-02-20 20:52:29,375 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,507 - ERROR - Search error for Nike: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Nike+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,508 - INFO - Processing company: InterSystems
+2025-02-20 20:52:29,508 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,654 - ERROR - Search error for InterSystems: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=InterSystems+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,654 - INFO - Processing company: DeepMind
+2025-02-20 20:52:29,655 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,804 - ERROR - Search error for DeepMind: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=DeepMind+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,805 - INFO - Processing company: Spline
+2025-02-20 20:52:29,806 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:29,936 - ERROR - Search error for Spline: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Spline+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:29,936 - INFO - Processing company: Audible
+2025-02-20 20:52:29,937 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,071 - ERROR - Search error for Audible: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Audible+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,072 - INFO - Processing company: Zendesk
+2025-02-20 20:52:30,072 - INFO - Processing company: Qualcomm
+2025-02-20 20:52:30,073 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,206 - ERROR - Search error for Qualcomm: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Qualcomm+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,207 - INFO - Processing company: Cigna
+2025-02-20 20:52:30,208 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,348 - ERROR - Search error for Cigna: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Cigna+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,349 - INFO - Processing company: Plug Power
+2025-02-20 20:52:30,349 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,540 - ERROR - Search error for Plug Power: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Plug+Power+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,541 - INFO - Processing company: Cisco
+2025-02-20 20:52:30,542 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,694 - ERROR - Search error for Cisco: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Cisco+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,694 - INFO - Processing company: Paycom
+2025-02-20 20:52:30,695 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,813 - ERROR - Search error for Paycom: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Paycom+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,813 - INFO - Processing company: Marshall Wace
+2025-02-20 20:52:30,814 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:30,957 - ERROR - Search error for Marshall Wace: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Marshall+Wace+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:30,957 - INFO - Processing company: United Airlines
+2025-02-20 20:52:30,958 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,104 - ERROR - Search error for United Airlines: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=United+Airlines+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,104 - INFO - Processing company: Roblox
+2025-02-20 20:52:31,105 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,248 - ERROR - Search error for Roblox: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Roblox+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,248 - INFO - Processing company: Okta
+2025-02-20 20:52:31,249 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,388 - ERROR - Search error for Okta: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Okta+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,388 - INFO - Processing company: Thomson Reuters
+2025-02-20 20:52:31,389 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,523 - ERROR - Search error for Thomson Reuters: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Thomson+Reuters+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,523 - INFO - Processing company: echo3D
+2025-02-20 20:52:31,524 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,644 - ERROR - Search error for echo3D: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=echo3D+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,644 - INFO - Processing company: Google Cloud
+2025-02-20 20:52:31,645 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,790 - ERROR - Search error for Google Cloud: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Google+Cloud+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,790 - INFO - Processing company: Target
+2025-02-20 20:52:31,791 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:31,930 - ERROR - Search error for Target: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Target+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:31,930 - INFO - Processing company: McDonalds
+2025-02-20 20:52:31,932 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,080 - ERROR - Search error for McDonalds: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=McDonalds+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,080 - INFO - Processing company: Morgan Stanley
+2025-02-20 20:52:32,080 - INFO - Processing company: Schmidt Futures
+2025-02-20 20:52:32,080 - INFO - Processing company: American Express
+2025-02-20 20:52:32,081 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,226 - ERROR - Search error for American Express: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=American+Express+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,226 - INFO - Processing company: BGB Group
+2025-02-20 20:52:32,227 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,373 - ERROR - Search error for BGB Group: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=BGB+Group+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,373 - INFO - Processing company: BiggerPockets
+2025-02-20 20:52:32,374 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,513 - ERROR - Search error for BiggerPockets: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=BiggerPockets+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,513 - INFO - Processing company: Verisk
+2025-02-20 20:52:32,514 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,645 - ERROR - Search error for Verisk: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Verisk+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,645 - INFO - Processing company: Optiver
+2025-02-20 20:52:32,646 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,791 - ERROR - Search error for Optiver: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Optiver+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,792 - INFO - Processing company: Spectrum
+2025-02-20 20:52:32,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:32,958 - ERROR - Search error for Spectrum: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Spectrum+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:32,958 - INFO - Processing company: TikTok
+2025-02-20 20:52:32,958 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:33,082 - ERROR - Search error for TikTok: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=TikTok+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:33,082 - INFO - Processing company: Merck
+2025-02-20 20:52:33,082 - INFO - Processing company: Lockheed Martin
+2025-02-20 20:52:33,082 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:33,230 - ERROR - Search error for Lockheed Martin: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Lockheed+Martin+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:33,230 - INFO - Processing company: DTCC
+2025-02-20 20:52:33,230 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:33,543 - ERROR - Search error for DTCC: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=DTCC+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:33,543 - INFO - Processing company: Clear
+2025-02-20 20:52:33,543 - INFO - Processing company: RMI
+2025-02-20 20:52:33,543 - INFO - Processing company: Collins Aerospace
+2025-02-20 20:52:33,543 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:33,676 - ERROR - Search error for Collins Aerospace: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Collins+Aerospace+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:33,676 - INFO - Processing company: Kinsta
+2025-02-20 20:52:33,677 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:33,816 - ERROR - Search error for Kinsta: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Kinsta+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:33,816 - INFO - Processing company: PepsiCo
+2025-02-20 20:52:33,817 - INFO - Processing company: JPMorgan Chase & Co.
+2025-02-20 20:52:33,818 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:33,970 - ERROR - Search error for JPMorgan Chase & Co.: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=JPMorgan+Chase+%26+Co.+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:33,970 - INFO - Processing company: Northrop Grumman
+2025-02-20 20:52:33,970 - INFO - Processing company: MongoDB
+2025-02-20 20:52:33,972 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,122 - ERROR - Search error for MongoDB: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=MongoDB+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,122 - INFO - Processing company: The Home Depot
+2025-02-20 20:52:34,123 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,273 - ERROR - Search error for The Home Depot: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=The+Home+Depot+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,274 - INFO - Processing company: Intel
+2025-02-20 20:52:34,275 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,426 - ERROR - Search error for Intel: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Intel+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,427 - INFO - Processing company: Xilinx
+2025-02-20 20:52:34,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,580 - ERROR - Search error for Xilinx: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Xilinx+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,580 - INFO - Processing company: ID Tech
+2025-02-20 20:52:34,581 - INFO - Processing company: Robinhood
+2025-02-20 20:52:34,581 - INFO - Processing company: AMD
+2025-02-20 20:52:34,581 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,706 - ERROR - Search error for AMD: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=AMD+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,706 - INFO - Processing company: Stripe
+2025-02-20 20:52:34,706 - INFO - Processing company: Raytheon
+2025-02-20 20:52:34,707 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,843 - ERROR - Search error for Raytheon: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Raytheon+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,843 - INFO - Processing company: Jahnel Group
+2025-02-20 20:52:34,844 - INFO - Processing company: Cognex
+2025-02-20 20:52:34,845 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:34,987 - ERROR - Search error for Cognex: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Cognex+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:34,988 - INFO - Processing company: T-Mobile
+2025-02-20 20:52:34,989 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:35,128 - ERROR - Search error for T-Mobile: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=T-Mobile+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:35,128 - INFO - Processing company: Medallia
+2025-02-20 20:52:35,130 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:35,276 - ERROR - Search error for Medallia: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Medallia+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:35,276 - INFO - Processing company: GenSpark
+2025-02-20 20:52:35,277 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:35,419 - ERROR - Search error for GenSpark: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=GenSpark+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:35,420 - INFO - Processing company: Capital One
+2025-02-20 20:52:35,421 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:36,585 - ERROR - Search error for Capital One: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Capital+One+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:36,585 - INFO - Processing company: Codédex
+2025-02-20 20:52:36,587 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:36,748 - ERROR - Search error for Codédex: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Cod%C3%A9dex+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:36,748 - INFO - Processing company: Figma
+2025-02-20 20:52:36,748 - INFO - Processing company: Dolby
+2025-02-20 20:52:36,749 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:36,883 - ERROR - Search error for Dolby: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Dolby+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:36,884 - INFO - Processing company: Atlassian
+2025-02-20 20:52:36,884 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,010 - ERROR - Search error for Atlassian: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Atlassian+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,010 - INFO - Processing company: MLB
+2025-02-20 20:52:37,011 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,209 - ERROR - Search error for MLB: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=MLB+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,210 - INFO - Processing company: St Peters
+2025-02-20 20:52:37,210 - INFO - Processing company: Subway
+2025-02-20 20:52:37,210 - INFO - Processing company: Peraton
+2025-02-20 20:52:37,211 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,340 - ERROR - Search error for Peraton: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Peraton+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,340 - INFO - Processing company: KPMG
+2025-02-20 20:52:37,341 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,482 - ERROR - Search error for KPMG: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=KPMG+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,483 - INFO - Processing company: Hearst Television
+2025-02-20 20:52:37,484 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,638 - ERROR - Search error for Hearst Television: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Hearst+Television+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,638 - INFO - Processing company: Duck Creek Technologies
+2025-02-20 20:52:37,639 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,806 - ERROR - Search error for Duck Creek Technologies: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Duck+Creek+Technologies+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,807 - INFO - Processing company: Broadridge
+2025-02-20 20:52:37,807 - INFO - Processing company: Jane Street
+2025-02-20 20:52:37,807 - INFO - Processing company: FCA
+2025-02-20 20:52:37,807 - INFO - Processing company: Adexa
+2025-02-20 20:52:37,808 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:37,934 - ERROR - Search error for Adexa: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Adexa+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:37,935 - INFO - Processing company: ZipRecruiter
+2025-02-20 20:52:37,935 - INFO - Processing company: Discover
+2025-02-20 20:52:37,935 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,062 - ERROR - Search error for Discover: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Discover+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,062 - INFO - Processing company: Matic Network
+2025-02-20 20:52:38,063 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,191 - ERROR - Search error for Matic Network: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Matic+Network+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,191 - INFO - Processing company: echoAR
+2025-02-20 20:52:38,192 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,336 - ERROR - Search error for echoAR: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=echoAR+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,337 - INFO - Processing company: Elastic
+2025-02-20 20:52:38,337 - INFO - Processing company: Hasura
+2025-02-20 20:52:38,338 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,474 - ERROR - Search error for Hasura: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Hasura+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,475 - INFO - Processing company: Digital Ocean
+2025-02-20 20:52:38,476 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,616 - ERROR - Search error for Digital Ocean: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Digital+Ocean+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,616 - INFO - Processing company: AWS
+2025-02-20 20:52:38,616 - INFO - Processing company: Deerfield Associates
+2025-02-20 20:52:38,617 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,754 - ERROR - Search error for Deerfield Associates: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Deerfield+Associates+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,754 - INFO - Processing company: Bridge Partners
+2025-02-20 20:52:38,755 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:38,889 - ERROR - Search error for Bridge Partners: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bridge+Partners+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:38,889 - INFO - Processing company: NordVPN
+2025-02-20 20:52:38,891 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,019 - ERROR - Search error for NordVPN: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=NordVPN+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,020 - INFO - Processing company: Google
+2025-02-20 20:52:39,020 - INFO - Processing company: New York State Association of Realtors
+2025-02-20 20:52:39,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,139 - ERROR - Search error for New York State Association of Realtors: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=New+York+State+Association+of+Realtors+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,140 - INFO - Processing company: Brookfield Asset Management
+2025-02-20 20:52:39,140 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,279 - ERROR - Search error for Brookfield Asset Management: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Brookfield+Asset+Management+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,279 - INFO - Processing company: Crown Castle International
+2025-02-20 20:52:39,280 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,413 - ERROR - Search error for Crown Castle International: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Crown+Castle+International+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,413 - INFO - Processing company: Simon Property Group
+2025-02-20 20:52:39,414 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,541 - ERROR - Search error for Simon Property Group: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Simon+Property+Group+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,541 - INFO - Processing company: Equinix
+2025-02-20 20:52:39,542 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,670 - ERROR - Search error for Equinix: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Equinix+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,670 - INFO - Processing company: Equity Residential
+2025-02-20 20:52:39,671 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,803 - ERROR - Search error for Equity Residential: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Equity+Residential+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,804 - INFO - Processing company: Public Storage
+2025-02-20 20:52:39,804 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:39,923 - ERROR - Search error for Public Storage: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Public+Storage+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:39,924 - INFO - Processing company: Alexandria Real Estate Equities
+2025-02-20 20:52:39,925 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,052 - ERROR - Search error for Alexandria Real Estate Equities: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Alexandria+Real+Estate+Equities+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,053 - INFO - Processing company: AvalonBay Communities
+2025-02-20 20:52:40,053 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,180 - ERROR - Search error for AvalonBay Communities: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=AvalonBay+Communities+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,180 - INFO - Processing company: Boston Properties
+2025-02-20 20:52:40,181 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,294 - ERROR - Search error for Boston Properties: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Boston+Properties+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,294 - INFO - Processing company: SEGRO
+2025-02-20 20:52:40,295 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,423 - ERROR - Search error for SEGRO: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=SEGRO+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,423 - INFO - Processing company: VICI Properties
+2025-02-20 20:52:40,423 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,544 - ERROR - Search error for VICI Properties: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=VICI+Properties+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,544 - INFO - Processing company: Ventas
+2025-02-20 20:52:40,545 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,663 - ERROR - Search error for Ventas: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Ventas+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,664 - INFO - Processing company: Welltower
+2025-02-20 20:52:40,665 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,811 - ERROR - Search error for Welltower: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Welltower+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,811 - INFO - Processing company: Realty Income Corporation
+2025-02-20 20:52:40,813 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:40,956 - ERROR - Search error for Realty Income Corporation: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Realty+Income+Corporation+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:40,956 - INFO - Processing company: Annaly Capital Management
+2025-02-20 20:52:40,957 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,098 - ERROR - Search error for Annaly Capital Management: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Annaly+Capital+Management+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,099 - INFO - Processing company: Essex Property Trust
+2025-02-20 20:52:41,099 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,222 - ERROR - Search error for Essex Property Trust: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Essex+Property+Trust+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,223 - INFO - Processing company: Healthpeak Properties
+2025-02-20 20:52:41,224 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,367 - ERROR - Search error for Healthpeak Properties: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Healthpeak+Properties+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,367 - INFO - Processing company: Starwood Property Trust
+2025-02-20 20:52:41,368 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,526 - ERROR - Search error for Starwood Property Trust: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Starwood+Property+Trust+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,526 - INFO - Processing company: Kimco Realty Corporation
+2025-02-20 20:52:41,527 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,649 - ERROR - Search error for Kimco Realty Corporation: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Kimco+Realty+Corporation+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,649 - INFO - Processing company: DPR Construction
+2025-02-20 20:52:41,650 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,787 - ERROR - Search error for DPR Construction: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=DPR+Construction+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,787 - INFO - Processing company: Whiting-Turner Contracting
+2025-02-20 20:52:41,788 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:41,940 - ERROR - Search error for Whiting-Turner Contracting: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Whiting-Turner+Contracting+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:41,940 - INFO - Processing company: STO Building Group
+2025-02-20 20:52:41,940 - INFO - Processing company: Kiewit Corp
+2025-02-20 20:52:41,941 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,069 - ERROR - Search error for Kiewit Corp: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Kiewit+Corp+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,069 - INFO - Processing company: Fluor Corporation
+2025-02-20 20:52:42,070 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,197 - ERROR - Search error for Fluor Corporation: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Fluor+Corporation+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,198 - INFO - Processing company: Norfolk Southern Corporation
+2025-02-20 20:52:42,200 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,321 - ERROR - Search error for Norfolk Southern Corporation: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Norfolk+Southern+Corporation+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,321 - INFO - Processing company: Sempra
+2025-02-20 20:52:42,321 - INFO - Processing company: Dataart
+2025-02-20 20:52:42,322 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,456 - ERROR - Search error for Dataart: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Dataart+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,456 - INFO - Processing company: DirtSat
+2025-02-20 20:52:42,456 - INFO - Processing company: Goldman Sachs
+2025-02-20 20:52:42,457 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,641 - ERROR - Search error for Goldman Sachs: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Goldman+Sachs+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,641 - INFO - Processing company: Bank of America
+2025-02-20 20:52:42,642 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,765 - ERROR - Search error for Bank of America: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Bank+of+America+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,765 - INFO - Processing company: Labcorp
+2025-02-20 20:52:42,766 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:42,892 - ERROR - Search error for Labcorp: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Labcorp+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:42,892 - INFO - Processing company: JetBrains
+2025-02-20 20:52:42,893 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,031 - ERROR - Search error for JetBrains: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=JetBrains+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,031 - INFO - Processing company: Balsamiq
+2025-02-20 20:52:43,031 - INFO - Processing company: DoraHacks
+2025-02-20 20:52:43,031 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,148 - ERROR - Search error for DoraHacks: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=DoraHacks+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,148 - INFO - Processing company: PRHI
+2025-02-20 20:52:43,150 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,277 - ERROR - Search error for PRHI: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=PRHI+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,277 - INFO - Processing company: IBM Call for Code
+2025-02-20 20:52:43,277 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,440 - ERROR - Search error for IBM Call for Code: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=IBM+Call+for+Code+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,440 - INFO - Processing company: Snapchat
+2025-02-20 20:52:43,441 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,557 - ERROR - Search error for Snapchat: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Snapchat+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,557 - INFO - Processing company: WB Games
+2025-02-20 20:52:43,557 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,691 - ERROR - Search error for WB Games: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=WB+Games+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,692 - INFO - Processing company: Allstate
+2025-02-20 20:52:43,692 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,813 - ERROR - Search error for Allstate: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Allstate+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,813 - INFO - Processing company: Coca Cola
+2025-02-20 20:52:43,814 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:43,936 - ERROR - Search error for Coca Cola: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Coca+Cola+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:43,937 - INFO - Processing company: Marriot
+2025-02-20 20:52:43,937 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:44,050 - ERROR - Search error for Marriot: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Marriot+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:44,051 - INFO - Processing company: Hak5
+2025-02-20 20:52:44,052 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:44,183 - ERROR - Search error for Hak5: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Hak5+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">
+2025-02-20 20:52:44,183 - INFO - Processing company: Tezo
+2025-02-20 20:52:44,184 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-02-20 20:52:44,303 - ERROR - Search error for Tezo: <HttpError 400 when requesting https://customsearch.googleapis.com/customsearch/v1?q=Tezo+official+website&cx=your_search_engine_id&num=1&key=your_api_key&alt=json returned "API key not valid. Please pass a valid API key.". Details: "[{'message': 'API key not valid. Please pass a valid API key.', 'domain': 'global', 'reason': 'badRequest'}]">

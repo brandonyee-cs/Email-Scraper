@@ -11,11 +11,26 @@ from collections import defaultdict
 import time
 import json
 from datetime import datetime, timedelta
+from duckduckgo_search import ddg
+from googleapiclient.discovery import build
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Configure settings
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 EMAIL_REGEX = re.compile(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b')
 SLEEP_TIME = 0.1  # Seconds between requests
+
+# Load API keys from environment variables
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+GOOGLE_CSE_ID = os.getenv('GOOGLE_CSE_ID')
+
+# Validate API keys are present
+if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
+    raise ValueError("Missing required environment variables. Please check your .env file contains GOOGLE_API_KEY and GOOGLE_CSE_ID")
 
 logging.basicConfig(
     filename='scraper.log',
@@ -96,11 +111,31 @@ def verify_url(url):
     except:
         return False
 
+def get_company_url(company_name):
+    """Search for company website using Google Custom Search"""
+    try:
+        service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
+        result = service.cse().list(
+            q=f"{company_name} official website",
+            cx=GOOGLE_CSE_ID,  # Search engine ID
+            num=1
+        ).execute()
+        
+        if 'items' in result:
+            url = result['items'][0]['link']
+            if not url.startswith('http'):
+                url = 'https://' + url
+            return url
+        return None
+    except Exception as e:
+        logging.error(f"Search error for {company_name}: {str(e)}")
+        return None
+
 def find_website_url(company_name):
     """Try to find company website URL"""
-    for url in get_possible_urls(company_name):
-        if verify_url(url):
-            return url
+    url = get_company_url(company_name)
+    if url and verify_url(url):
+        return url
     return None
 
 def create_session():
@@ -218,14 +253,15 @@ def load_companies(filename='companies.txt'):
         logging.error(f"Error loading companies from {filename}: {str(e)}")
         return []
 
-def main():
+def scrape_companies():
+    """Main function to scrape company emails"""
     logging.info("Starting scraper run")
     
     # Load companies from file
     companies = load_companies()
     if not companies:
         print("Error: No companies loaded from companies.txt")
-        return
+        return None
     
     print(f"Loaded {len(companies)} companies")
     results = []
@@ -271,20 +307,4 @@ def main():
             results.append({'Company': company, 'Emails': f'Error: {error_msg}'})
             continue
     
-    try:
-        # Save results
-        df = pd.DataFrame(results)
-        df.to_csv('sponsorship_contacts.csv', index=False)
-        print("\nResults saved to sponsorship_contacts.csv")
-        print(f"Processed {len(companies)} companies")
-        print(f"Found emails for {len([r for r in results if not r['Emails'].startswith(('No ', 'Error'))])} companies")
-    except Exception as e:
-        print(f"Error saving results: {str(e)}")
-        # Backup save attempt
-        with open('sponsorship_contacts_backup.csv', 'w') as f:
-            f.write('Company,Emails\n')
-            for result in results:
-                f.write(f"{result['Company']},{result['Emails']}\n")
-
-if __name__ == "__main__":
-    main()
+    return pd.DataFrame(results)
