@@ -189,3 +189,203 @@ Coca Cola
 Marriot
 Hak5
 Tezo
+Google
+Microsoft
+Amazon
+Meta
+Apple
+IBM
+Oracle
+Intel
+NVIDIA
+AMD
+Dell
+Cisco
+Salesforce
+Adobe
+SAP
+Twitter
+LinkedIn
+Uber
+Airbnb
+Atlassian
+Google Cloud
+Microsoft Azure
+Amazon Web Services
+IBM Cloud
+DigitalOcean
+Heroku
+Linode
+Cloudflare
+Oracle Cloud
+Vultr
+GitHub
+GitLab
+JetBrains
+Docker
+MongoDB
+Redis Labs
+Neo4j
+Elastic
+HashiCorp
+Postman
+Twilio
+Stripe
+Auth0
+Vercel
+Netlify
+SendGrid
+New Relic
+DataDog
+Sentry
+CircleCI
+Raspberry Pi Foundation
+Arduino
+Qualcomm
+Samsung
+Huawei
+Honeywell
+Estimote
+Thalmic Labs
+Leap Motion
+Texas Instruments
+JPMorgan Chase
+Capital One
+Mastercard
+Visa
+American Express
+Bloomberg
+Goldman Sachs
+Citibank
+Morgan Stanley
+PayPal
+Square
+Robinhood
+Plaid
+Chime
+Revolut
+Affirm
+Klarna
+Brex
+Coinbase
+Ripple
+OpenAI
+Anthropic
+Hugging Face
+Scale AI
+DataRobot
+Cohere
+H2O.ai
+Weights & Biases
+Stability AI
+Deepgram
+AT&T
+Verizon
+T-Mobile
+Vodafone
+Ericsson
+Nokia
+NASA
+SpaceX
+Boeing
+Lockheed Martin
+Ford
+General Motors
+Tesla
+Toyota
+Honda
+Pfizer
+Johnson & Johnson
+Medtronic
+Philips Healthcare
+Siemens Healthineers
+Epic Systems
+Cerner
+Teladoc
+ZocDoc
+23andMe
+Walmart
+Target
+Best Buy
+Shopify
+eBay
+DoorDash
+Instacart
+Grubhub
+Peloton
+Starbucks
+Shell
+BP
+Siemens
+General Electric
+Tesla Energy
+Schneider Electric
+SolarCity
+First Solar
+Vestas
+Orsted
+Netflix
+Spotify
+Disney
+Sony
+Warner Bros
+Comcast
+Twitch
+Roblox
+Unity
+Epic Games
+Coursera
+Udemy
+Udacity
+Khan Academy
+Duolingo
+Chegg
+Kahoot
+Pluralsight
+edX
+Skillshare
+Palantir
+Crowdstrike
+Palo Alto Networks
+Cloudflare
+FireEye
+Symantec
+McAfee
+Fortinet
+Okta
+Zscaler
+Y Combinator
+Techstars
+500 Startups
+Andreessen Horowitz
+Sequoia Capital
+Accel Partners
+Kleiner Perkins
+First Round Capital
+SV Angel
+Founders Fund
+Red Hat
+VMware
+Accenture
+Deloitte
+PwC
+KPMG
+EY
+McKinsey
+Boston Consulting Group
+Bain & Company
+Verizon
+AT&T
+T-Mobile
+Ericsson
+Nokia
+Motorola
+LG
+OnePlus
+Xiaomi
+Oppo
+Major League Hacking
+Devpost
+HackerEarth
+TechTogether
+AngelHack

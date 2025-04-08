@@ -28,7 +28,7 @@ if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
 
 class RateLimiter:
     def __init__(self, requests_per_second=1):
-        self.delay = 0.1 / requests_per_second
+        self.delay = 1.0 / requests_per_second
         self.last_request = defaultdict(float)
     
     def wait(self, domain):
@@ -38,7 +38,7 @@ class RateLimiter:
             time.sleep(wait_time)
         self.last_request[domain] = time.time()
 
-rate_limiter = RateLimiter(requests_per_second=0.5)
+rate_limiter = RateLimiter(requests_per_second=100)
 
 class ResultsCache:
     def __init__(self, cache_file='cache.json', expire_days=7):
